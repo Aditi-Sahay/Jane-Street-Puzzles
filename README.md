@@ -6,8 +6,6 @@ This repository contains my personal solutions to the [Jane Street Monthly Puzzl
 
 A month-wise record of puzzles attempted, solved and submitted.
 
-## Puzzle Tracker
-
 | Month | Puzzle Name | Status |
 |---|---|---|
 | November 2026 | Pressure Points | Solved |
