@@ -13,6 +13,7 @@ There are total **79 letter strings** and **19 emoji clues**. So first of all, w
 Some terms have extra OR missing letters from the entire complete word (or I have simple unscrambled it all wrong) but I found there was a certain sequence and relationships between the additional and missing letters.
 Then I used Python to automate letter-frequency comparisons and validate the proposed mapping and then combined the letter patterns to identify the intended solution.
 
+AI Usage: I have used ChatGPT to format my code and documentation in solver.py.
 ---
 
 ## 3. Final Answer
