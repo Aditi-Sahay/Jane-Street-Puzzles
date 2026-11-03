@@ -10,7 +10,7 @@ A month-wise record of puzzles attempted, solved and submitted.
 
 | Month | Puzzle Name | Status |
 |---|---|---|
-| November 2026 | Pressure Points | Solved — Leaderboard |
+| November 2026 | Pressure Points | Solved |
 
 ## Repository Structure
 
