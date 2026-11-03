@@ -19,7 +19,7 @@ Each monthly folder typically includes:
 | File | Description |
 |---|---|
 | `README.md` | Overview of the puzzle, initial approach and reasoning |
-| `achievement.md` | Evidence of leaderboard recognition, where applicable |
+| `achievement.png` | Evidence of leaderboard recognition, if applicable |
 | `solution.md` | Structured, step-by-step explanation of the solution |
 | `solver.py` | Python code developed to automate, validate or explore parts of the solution, wherever applicable |
 | `notes.md` | Additional thought processes, diagrams and observations (optional) |
