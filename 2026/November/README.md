@@ -36,7 +36,6 @@ The solution was successfully submitted and my name appeared on the official Jan
 | [solution.md](./solution.md) | Detailed breakdown of the clues, deductions, and final solution |
 | [achievement.png](./achievement.png) | Evidence of official leaderboard recognition |
 | [solver.py](./solver.py) | Python code used to explore and validate the letter mappings |
-| [notes.md](./notes.md) | Additional observations and working notes |
 
 ---
 
