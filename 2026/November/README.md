@@ -1,5 +1,4 @@
-**#Pressure Points**
-
+#Pressure Points
 
 ## 1. Overview
 
